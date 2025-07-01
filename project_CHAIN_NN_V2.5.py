@@ -2,8 +2,6 @@
 '''
 Created on Fri Nov  4 13:07:11 2022
 
-@author: João Moura and Hallvard Bjørgen
-
 NEURAL NETWORK CHAINING FILE
 	The idea here is: after using the main network to evaluate our data, 
 	we now know which trials the main model predicts the best, so we now make
